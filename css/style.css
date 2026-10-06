@@ -3,6 +3,7 @@ nav{
     color: white;
     align-items: center;
     text-align: center;
+    text-shadow: #9995b6;
 }
 
 .navBar{
@@ -10,5 +11,12 @@ nav{
     gap: 20px;
     padding: 10px 20px;
     list-style-type: none;
+    text-decoration: aliceblue;
     text-align: center;
+}
+
+img{
+    max-width: 250px;
+    border: 2px solid #a4daa2;
+    border-radius: 12%;
 }
